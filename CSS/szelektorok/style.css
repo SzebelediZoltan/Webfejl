@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 /* * {
     background-color: bisque;
 } */
-=======
-/* 
-* {
-    background-color: red;
-} 
-*/
->>>>>>> 6d00e0909b0fc7766736a8ae64228ba8946234c4
 
 #p2 {
     color: blue;
@@ -27,20 +19,12 @@ body>p:first-of-type {
     color: yellow;
 }
 
-<<<<<<< HEAD
-=======
-/* közvetlen gyerek */
->>>>>>> 6d00e0909b0fc7766736a8ae64228ba8946234c4
 body>p {
     background-color: blueviolet;
 }
 
 li.vorosek+li {
-<<<<<<< HEAD
     background-color: yellow;
-=======
-    background-color: gold;
->>>>>>> 6d00e0909b0fc7766736a8ae64228ba8946234c4
 }
 
 li.vorosek~li {
@@ -50,29 +34,14 @@ li.vorosek~li {
 p:first-child {
     font-size: 30px;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 6d00e0909b0fc7766736a8ae64228ba8946234c4
 ol li:nth-child(4) {
     font-family: 'Courier New';
 }
 
-<<<<<<< HEAD
 tr:nth-child(2n+1) {
     background-color: indianred;
 }
 
-=======
-tr:nth-child(3n+1) td {
-    background-color: indianred;
-}
-
-td:nth-child(2n+1) {
-    background-color: khaki;
-}
-
->>>>>>> 6d00e0909b0fc7766736a8ae64228ba8946234c4
 [title] {
     font-style: italic;
 }
