@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 p {
     color: red;
 }
@@ -18,36 +17,12 @@ nav a:hover {
   color: red;
   padding: 20px;
   background-color: yellow;
-=======
-/*
-szelektor {
-    tulajdonsag: ertek;
-}
-*/
-
-body p {
-    color: blue;
-}
-
-nav a {
-    color: green;
-    padding: 20px;
-    background-color: yellow;
->>>>>>> 6d00e0909b0fc7766736a8ae64228ba8946234c4
 }
 
 h2, h3 {
     color: purple;
 }
 
-<<<<<<< HEAD
-=======
-nav {
-    border: 1px solid black;
-    padding: 20px;
-}
-
->>>>>>> 6d00e0909b0fc7766736a8ae64228ba8946234c4
 body {
     color: coral;
 }
