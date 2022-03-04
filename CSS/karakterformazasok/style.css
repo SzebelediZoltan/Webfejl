@@ -49,3 +49,9 @@ body {
 #p11 {
     font-size: 200%;
 }
+
+/* 40% = 0.4 */
+#p12 {
+    font-size: 1.2em;
+    /* font-size: 120%; */
+}
